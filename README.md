@@ -206,7 +206,7 @@ Use Postman or any other API testing tool to test the endpoints.
 ---
 
 ## Author
-- Your Name
-- [GitHub Profile](https://github.com/your-username)
+-sunilkumar
+-https://github.com/SunilkumarDodamani
 
 
